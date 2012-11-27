@@ -1,5 +1,5 @@
 a python script
 
 	using cx_Oracle module
-	some basic CRUS operations
+	some basic CRUD operations
 	using hashlib module to generate a md5 code
